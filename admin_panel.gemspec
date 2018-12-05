@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Simple admin  panel}
   spec.description   = %q{...}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/zelen-sv/admin_panel"
 
   spec.files = Dir["{lib,vendor}/**/*"] + ["MIT-LICENSE", "README.md"]
 
